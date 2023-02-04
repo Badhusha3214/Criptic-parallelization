@@ -1,7 +1,7 @@
 ![Github](https://user-images.githubusercontent.com/53377403/216769718-9ff5080e-9797-4284-9fd7-95d264ea1460.jpeg)
 
 
-# Med CAse
+# Med Case
 
 ## Problem Identified 
 # The selling of EXPIRED medicines in pharmacy
@@ -14,7 +14,7 @@ A remainder or alerting message to remaind you about the status of the medicine.
 <br>
 
 ## Project Description 
-Med CAse is a website which remainds you the status of medicines.
+Med Case is a website which remainds you the status of medicines.
 It  will alert you and it will show you which all medicins are expired.
 We can add products and mention the expiry date of the product the Med CAse will automatically check and alerts you. 
 <br>
