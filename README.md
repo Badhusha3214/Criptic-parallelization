@@ -1,4 +1,4 @@
-![Github](https://github.com/Noel6161131110/CONQUEROR-23-/blob/8746611d94769a1aa96d8a85a25d35edc9a95973/assets/desktop.png)
+![Github](https://user-images.githubusercontent.com/53377403/216769718-9ff5080e-9797-4284-9fd7-95d264ea1460.jpeg)
 
 
 # Med CAse
