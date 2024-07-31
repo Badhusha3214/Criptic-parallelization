@@ -38,3 +38,7 @@ Images of the project (upload images in the asset folder and call the images her
 
 ## Libraries used
 bootstrap - current version
+
+
+## Note
+this project it currently in complete 
